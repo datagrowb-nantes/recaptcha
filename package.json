@@ -1,24 +1,19 @@
 {
-  "name": "@itzsunny/firebase-login",
-  "author": "Muhammad Sarwar",
+  "name": "@edrick101/recaptcha",
+  "author": "Edrick101",
   "license": "MIT",
-  "version": "0.0.8",
+  "version": "1.0.0",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
   "types": "dist/index.d.ts",
   "keywords": [
     "firebase-patch",
     "firebase",
-    "expo-firebase",
-    "library",
-    "itzsunny/firebase-patch",
-    "itzsunny/firebase-login",
-    "itzsunny",
-    "@itzsunny"
+    "expo-firebase"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/maksof-sarwar/expo-firebase-recaptcha-patch.git"
+    "url": "https://github.com/edrick-troupe/recaptcha.git"
   },
   "scripts": {
     "build": "tsup",
